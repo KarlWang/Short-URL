@@ -1,3 +1,1 @@
-Readme.txt
-DESCRIPTION:
-	This file is tracked by GIT!
+This is a working version. I'm using it.	
